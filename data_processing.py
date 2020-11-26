@@ -11,7 +11,7 @@ import copy
 import os
 from collections import Counter
 
-data_path = 'E:/dataset/fotos/'
+data_path = '../'
 item_data = json.load(open(data_path + 'item.json', 'r'))
 outfit_data = json.load(open(data_path + 'outfit.json', 'r'))
 
