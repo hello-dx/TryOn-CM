@@ -10,6 +10,8 @@ Learn more about the paper on [Paper Page](https://dxresearch.wixsite.com/tryon-
 
 - Perform data_processing.py to prepare the required files: Image pixel array, image feature and vocabulary.
 
+- To do: Expend the FOTOS with more outfit.
+
 # Using the Pre-trained Models
 
 - Download the trained models from [Page](https://drive.google.com/open?id=1nL4CuyEvafEx8hbpGVj0v81C1fETZjR0)-example.
